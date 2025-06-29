@@ -1,0 +1,7 @@
+# peach
+train: E:\PythonProject\YOLOV8\YOLOV8\train_model_1\dataset\train
+val: E:\PythonProject\YOLOV8\YOLOV8\train_model_1\dataset\valid
+
+# Classes
+names:
+  0: face

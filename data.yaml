@@ -1,0 +1,7 @@
+# data.yaml
+train: D:\AI_Learning\python\01_Learning\Target_Detection\face_recoginition_myself\dataset\train
+val: D:\AI_Learning\python\01_Learning\Target_Detection\face_recoginition_myself\dataset\valid
+
+# nc: 1
+names:
+  0: face
